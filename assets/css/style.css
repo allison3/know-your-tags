@@ -2,4 +2,47 @@ body{
   /* Don't worry about these properties just yet, they will make more sense later! */
   width:50%;
   margin:auto;
+  background-color: #F5f5f5;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  float: left;
+
+
+}
+
+
+.grayText {
+color: #A9A9A9;
+font-family: Helvetica;
+}
+
+.darkGrayText {
+  color: #696969;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.listText {
+  color: #696969;
+  font-family: Helvetica;
+  font-size:16px;
+}
+
+table {
+  text-align: left;
+  font-family: helvetica;
+  width: 400px;
+  font-family: Helvetica;
+
+}
+
+td {
+    padding: 15px;
+    border-bottom: 1px solid #696969;
+}
+
+a {
+  color: #2F4F4F;
+  font-family: Helvetica;
+  text-decoration: none;
 }
